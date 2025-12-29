@@ -1,5 +1,4 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Market Share Evolution com labels acima das linhas e nomes no final",
   "width": 800,
   "height": 500,
